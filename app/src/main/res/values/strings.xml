@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Escola</string>
+    <string name="insert_student">Inserir Aluno</string>
+    <string name="back">Votlar</string>
+    <string name="insert">Inserir</string>
+    <string name="name">Nome</string>
+    <string name="age">Idade</string>
+    <string name="course">Curso</string>
+</resources>
